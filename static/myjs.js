@@ -11,28 +11,19 @@ var $chatlogs = $('.chatlogs');
 	
 
 $('document').ready(function(){
+    $('.iconInner').click(function(e) {
+		jQuery(this).parents('.botIcon').addClass('showBotSubject');
+		$("[name='msg']").focus();
+	});
+    
+    jQuery(document).on('click', '.closeBtn, .chat_close_icon', function(e) {
+		jQuery(this).parents('.botIcon').removeClass('showBotSubject');
+		jQuery(this).parents('.botIcon').removeClass('showMessenger');
+	});
     speechResponse("Hi! I am Prashna! How may I help?");
 	console.log("hello2");
 	// Hide the switch input type button initially
 	$("#switchInputType").toggle();
-
-	// If the switch input type button is pressed
-	$("#switchInputType").click(function(event) {
-
-		// Toggle which input type is shown
-		if($('.buttonResponse').is(":visible")) {
-			$("#switchInputType").attr("src", "Images/multipleChoice.png");
-		}
-
-		else {
-			$("#switchInputType").attr("src", "Images/keyboard.png");
-		}
-		$('textarea').toggle();
-		$('.buttonResponse').toggle();
-
-    
-
-	});
 
     	// Primary function sends the text which the user typed
 	$("textarea").keypress(function(event) {
@@ -69,9 +60,10 @@ $('document').ready(function(){
 	});
 
   $("#rec").click(function(event) {
-
+    console.log("recording started")
       $.get("/voice", {}).done(function(data) {
               send(data);
+              console.log("recording sucessful")
       });
 	}); 
 

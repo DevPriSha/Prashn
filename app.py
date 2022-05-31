@@ -19,9 +19,9 @@ import speech_recognition as sr
 
 lemmatizer = WordNetLemmatizer()
 nltk.download('wordnet')
+nltk.download('omw-1.4')
+nltk.download('stopwords')
 
-#from chatterbot import ChatBot
-#from chatterbot.trainers import ChatterBotCorpusTrainer
 
 def get_text(msg):
     input_text  = msg
@@ -63,7 +63,7 @@ def get_pred(model,encoded_input):
     return pred
 
 def bot_precausion(df_input,pred):
-    vocab = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\vocab.pkl')
+    vocab = joblib.load(r'/Users/devprisha/Documents/GitHub/Prashn/vocab.pkl')
     words = df_input.questions[0].split()
     if len([w for w in words if w in vocab])==0 :
         pred = 1
@@ -84,15 +84,15 @@ def home():
 
 @app.route("/get")
 def get_bot_response():
-    model = load_model(r"D:\Desktop\IGDTUWSmartBot2\model-v1.h5")
+    model = load_model(r"/Users/devprisha/Documents/GitHub/Prashn/model-v1.h5")
 
     userText = request.args.get('msg')
     df_input = get_text(userText)
 
-    df2 = pd.read_csv(r"D:\Desktop\IGDTUWSmartBot2\response.csv")
+    df2 = pd.read_csv(r"/Users/devprisha/Documents/GitHub/Prashn/response.csv")
     #load artifacts
-    tokenizer_t = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\tokenizer_t.pkl')
-    vocab = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\vocab.pkl')
+    tokenizer_t = joblib.load(r'/Users/devprisha/Documents/GitHub/Prashn/tokenizer_t.pkl')
+    vocab = joblib.load(r'/Users/devprisha/Documents/GitHub/Prashn/vocab.pkl')
 
     df_input = remove_stop_words_for_input(tokenizer,df_input,'questions')
     encoded_input = encode_input_text(tokenizer_t,df_input,'questions')  
@@ -108,16 +108,17 @@ def get_bot_response():
 def speech_recog():
     r = sr.Recognizer()
 	# use the microphone as source for input.
+    print("recording...")
     with sr.Microphone() as source2:
     
 		# wait for a second to let the recognizer
 		# adjust the energy threshold based on
 		# the surrounding noise level
-        r.adjust_for_ambient_noise(source2, duration=0.2)
-
+        r.adjust_for_ambient_noise(source2, duration=1)
+        print("ambience adjusted")
 		# listens for the user's input
         audio2 = r.listen(source2)
-
+        print("audio recorded")
 		# Using google to recognize audio
         MyText = r.recognize_google(audio2)
         MyText = MyText.lower()
