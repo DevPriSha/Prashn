@@ -63,7 +63,7 @@ def get_pred(model,encoded_input):
     return pred
 
 def bot_precausion(df_input,pred):
-    vocab = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\vocab.pkl')
+    vocab = joblib.load(r'vocab.pkl')
     words = df_input.questions[0].split()
     if len([w for w in words if w in vocab])==0 :
         pred = 1
@@ -84,15 +84,15 @@ def home():
 
 @app.route("/get")
 def get_bot_response():
-    model = load_model(r"D:\Desktop\IGDTUWSmartBot2\model-v1.h5")
+    model = load_model(r"model-v1.h5")
 
     userText = request.args.get('msg')
     df_input = get_text(userText)
 
-    df2 = pd.read_csv(r"D:\Desktop\IGDTUWSmartBot2\response.csv")
+    df2 = pd.read_csv(r"response.csv")
     #load artifacts
-    tokenizer_t = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\tokenizer_t.pkl')
-    vocab = joblib.load(r'D:\Desktop\IGDTUWSmartBot2\vocab.pkl')
+    tokenizer_t = joblib.load(r'tokenizer_t.pkl')
+    vocab = joblib.load(r'vocab.pkl')
 
     df_input = remove_stop_words_for_input(tokenizer,df_input,'questions')
     encoded_input = encode_input_text(tokenizer_t,df_input,'questions')  

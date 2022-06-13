@@ -1,20 +1,20 @@
 response,labels
-Hello!,24
-Good to see you again!,24
-"Hi there, how can I help?",24
-Sad to see you go :(,23
-Talk to you later,23
-Goodbye!,23
-Come back soon,23
+Hello!,25
+Good to see you again!,25
+"Hi there, how can I help?",25
+Sad to see you go :(,24
+Talk to you later,24
+Goodbye!,24
+Come back soon,24
 "That would be Ms. Priya Sharma, a second year student at IGDTUW",15
 "I was created by Ms. Priya Sharma, who is currently pursuing B.Tech in CSE-AI",15
 Ms. Priya Sharma is my creator,15
-You can call me Prashn.,38
-I'm Prashn,38
-I'm Prashn aka IGDTUW's Chatbot.,38
-Hi I'm Prashn and i'm an AI-enabled chatbot created to help you with information related to Indira Gandhi Delhi Technical University for Women.,38
-The university is open from 9am-5pm on weekdays. It is advisable to not visit the university unless important due to COVID-19 outbreak.,28
-"You can contact us at 011- 23900261, 23900264. Refer the <a target = ""_blank"" href = ""http://igdtuw.ac.in/directory.php"">directory</a> for contact details of different authorities",40
+You can call me Prashn.,40
+I'm Prashn,40
+I'm Prashn aka IGDTUW's Chatbot.,40
+Hi I'm Prashn and i'm an AI-enabled chatbot created to help you with information related to Indira Gandhi Delhi Technical University for Women.,40
+The university is open from 9am-5pm on weekdays. It is advisable to not visit the university unless important due to COVID-19 outbreak.,29
+"You can contact us at 011- 23900261, 23900264. Refer the <a target = ""_blank"" href = ""http://igdtuw.ac.in/directory.php"">directory</a> for contact details of different authorities",42
 "Igdtuw currently offers 6 Btech courses, one dual degree course (B.Tech+MBA),One course for B.Arch and One couse of BBA For undergraduates, 4 Mtech courses ,MCA, M.Plan and Mba couses for postgraduates, and 10 Ph.D courses.",14
 " University offers Btech in 6 streams 1. Computer science and artificial Intelligence(CSAI) 
  2. Computer science engineering (CSE) 
@@ -36,28 +36,28 @@ The university is open from 9am-5pm on weekdays. It is advisable to not visit th
  8.Ph.D.(chemistry) 
  9.Ph.D.(Mathematics) 
  10.Ph.D.(English)",4
-"Refer the following <a target = ""blank"" href = ""http://igdtuw.ac.in/uploads/final%20fee%20notice.pdf "">document</a> for information about fees for various courses.",21
-"Indira Gandhi Delhi Technical University For Women, Madrasa Road ,Opposite St. James Church Kashmere Gate,Delhi-110006<a target=""_blank"" href=""https://goo.gl/maps/YMrH73Pyuyoc21jLA""> here</a> ",33
-"The University has two women hostels - <b>Krishna Hostel</b> and <b>Kaveri Hostel</b> , to accommodate approximately 300 students. These two hostels are located in the University campus.",26
+"Refer the following <a target = ""blank"" href = ""http://igdtuw.ac.in/uploads/final%20fee%20notice.pdf "">document</a> for information about fees for various courses.",22
+"Indira Gandhi Delhi Technical University For Women, Madrasa Road ,Opposite St. James Church Kashmere Gate,Delhi-110006<a target=""_blank"" href=""https://goo.gl/maps/YMrH73Pyuyoc21jLA""> here</a> ",34
+"The University has two women hostels - <b>Krishna Hostel</b> and <b>Kaveri Hostel</b> , to accommodate approximately 300 students. These two hostels are located in the University campus.",27
 "There is annual sports meet,various cultural and technical festivals organized by different societies. For more information you can visit college Website <a target=""_blank"" href=""https://www.igdtuw.ac.in/studentlife.php?id=6""> here ",19
 "The marksheet of class 12th and 10th, Character certificate, caste certificate(if not general),School leaving certificate, Two passpoert size photographs, Admit Card, Nta scores(B.Tech) and migration certificate",17
-"For more information on various departments and infrastructures please visit our website.<a target=""_blank"" href=""https://www.igdtuw.ac.in/index.php""> here</a> ",22
-"To know about syllabus and timetable visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/Academics.php?id=3""> here</a>",47
-"The university has an air-conditioned library. Learning Resource Centre (LRC) serves as the premier source of academic information for the IGDTU community through its collections, educational and consulting services. The LRC has a highly selective collection of print, electronic, and audiovisual materials in the areas of science, engineering, technology and management to support the learning and research activities of students and faculty. A number of e- journals are being subscribed through consortia mode subscription. All these journals are available online to the member of the LRC in campus LAN. To know more, visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/Library.php""> here</a>",32
-"University campus has auditorium, convenience store, good wifi connectivity, Medical facilities, labs, sport complex, two women's hostel and library. Click <a target=""_blank"" href=""http://igdtuw.ac.in/tenders.php?id=2"">here</a> for more information on facilities.",30
+"For more information on various departments and infrastructures please visit our website.<a target=""_blank"" href=""https://www.igdtuw.ac.in/index.php""> here</a> ",23
+"To know about syllabus and timetable visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/Academics.php?id=3""> here</a>",50
+"The university has an air-conditioned library. Learning Resource Centre (LRC) serves as the premier source of academic information for the IGDTU community through its collections, educational and consulting services. The LRC has a highly selective collection of print, electronic, and audiovisual materials in the areas of science, engineering, technology and management to support the learning and research activities of students and faculty. A number of e- journals are being subscribed through consortia mode subscription. All these journals are available online to the member of the LRC in campus LAN. To know more, visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/Library.php""> here</a>",33
+"University campus has auditorium, convenience store, good wifi connectivity, Medical facilities, labs, sport complex, two women's hostel and library. Click <a target=""_blank"" href=""http://igdtuw.ac.in/tenders.php?id=2"">here</a> for more information on facilities.",31
 Yes campus has one canteen and one cafeteria,10
-College canteen serve various kinds of packed and unpacked food,36
-"The university has an excellent placement record with the highest package being 60 lpa. To know more about placement statistics visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/placements.php""> TNP Section</a>. ",41
+College canteen serve various kinds of packed and unpacked food,38
+"The university has an excellent placement record with the highest package being 60 lpa. To know more about placement statistics visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/placements.php""> TNP Section</a>. ",44
 "<a target=""_blank"" href=""https://www.igdtuw.ac.in/appliedScience.php"">Prof. Chhaya Ravi Kant</a> is HOD of Applied Sciences and Humanities department.",7
 "<a target=""_blank"" href = https://www.igdtuw.ac.in/computerScience.php?name=KRSeeja>Prof. Seeja K.R.</a> is the Head of Department of Computer Science and Engineering.",16
 "<a target=""_blank"" href = https://www.igdtuw.ac.in/ece.php?name=nidhigoel>Prof. Nidhi Goel</a> is the Head of Department of Electronics and Communication Engineering.",18
-"<a target=""_blank"" href=""https://www.igdtuw.ac.in/itdepartment.php?id=1"">Prof. Amar k. Mohapatra</a> is HOD of Information Technology department.",31
+"<a target=""_blank"" href=""https://www.igdtuw.ac.in/itdepartment.php?id=1"">Prof. Amar k. Mohapatra</a> is HOD of Information Technology department.",32
 "<a target=""_blank"" href=""https://www.igdtuw.ac.in/architecture.php?id=6"">Ar. Vishal Rai</a> is HOD of Architecture and Planning department.",8
-"<a target=""_blank"" href=""https://www.igdtuw.ac.in/mechanical.php?id=6"">Prof. Nathi Ram Chauhan</a> is HOD of Mechanical and Automation department.",35
-"<a target=""_blank"" href=""https://www.igdtuw.ac.in/managementDept.php?id=1"">Prof. Shalini Arora</a> is HOD of Management department.",34
+"<a target=""_blank"" href=""https://www.igdtuw.ac.in/mechanical.php?id=6"">Prof. Nathi Ram Chauhan</a> is HOD of Mechanical and Automation department.",37
+"<a target=""_blank"" href=""https://www.igdtuw.ac.in/managementDept.php?id=1"">Prof. Shalini Arora</a> is HOD of Management department.",35
 "<a target = ""_blank"" href = https://www.igdtuw.ac.in/aids.php?name=ArunSharma>Prof. Arun Sharma</a> is the Head of Department of Artificial Intelligence and Data Sciences.",6
 "Dr.Anil Baijal is chancellor and Dr.Amita Dev is vice chancellor of university. To know more about university administration visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/AboutUs.php?id=10"">here</a>",1
-"Here is the Academic Calendar  <a target=""_blank"" href=""https://www.igdtuw.ac.in/examinations.php?id=2"">here</a>",46
+"Here is the Academic Calendar  <a target=""_blank"" href=""https://www.igdtuw.ac.in/examinations.php?id=2"">here</a>",49
 "Admission to various B.Tech. and B. Arch. course in based on All India Rank in Jee Mains exam through JAC Delhi counselling. Admission to various post Graduate and Ph. D. programmes are done by filling the form available on our <a target=""_blank"" href=""https://www.igdtuw.ac.in/index.php"">website</a>. ",5
 "1) Library Services- Learning Resource Centre (LRC) serves as the premier source of academic information for the IGDTUW community through its collections, educational and consulting services.
  2) Hostels- The University has two women hostels - Krishna Hostel and Kaveri Hostel , to accommodate approximately 300 students.These two hostels are located in the University campus.
@@ -67,28 +67,32 @@ College canteen serve various kinds of packed and unpacked food,36
 6) Common Room- The university has a common room for girls, equipped with fitness equipment, yoga facility and indoor games. 
 7) Computer Center- The university has an on campus computing facility (computer lab) housedin centralized air conditioned premises, named as Computer Center. The Computer Center atthe university is equipped with the newly procured Computer Systems with a high end configuration. ",20
 "University offers around 800 seats for B.Tech., 40 for B.Arch. and 75 for B.B.A. ,128 Seats for Mtech,76 each for M.C.A and M.B.A.For more information visit <a target=""_blank"" href=""https://www.igdtuw.ac.in/Admission.php?id=6"">here</a>",11
-IGDTUW does not have uniform,51
+IGDTUW does not have a uniform policy although it is expected that students wear decent clothes.,55
 "There are various committees and societies in the university you can see at  <a target=""_blank"" href=""https://www.igdtuw.ac.in/studentlife.php?id=2"">here</a> ",12
-I am not program for this please ask appropriate query,43
-"Please refer the <a target=""_blank"" href=""https://www.igdtuw.ac.in/Academics.php?id=4"">academic calendar</a>",52
-I am glad I helped you,45
-"welcome, anything else i can assist you with?",45
-I can answer to low-intermediate questions regarding college,48
-"You can ask me questions regarding college, and i will try to answer them",48
-"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging",42
-"HODs differ for each branch, please be more specific like: (HOD it)",25
-" Bus: 114ST+901, 171, 246, 405, 621, 729, 937A, IGI-4EXP are some of appropriate buses to reach IGDTUW",50
-"IGDTUW is well connected with yellow, red and violet line. Kashmere Gate metro station is the nearest metro station and is less than a kilometer away!",37
+I am not program for this please ask appropriate query,46
+"Please refer the <a target=""_blank"" href=""https://www.igdtuw.ac.in/Academics.php?id=4"">academic calendar</a>",56
+I am glad I helped you,48
+"welcome, anything else i can assist you with?",48
+I can answer to low-intermediate questions regarding college,51
+"You can ask me questions regarding college, and i will try to answer them",51
+"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging",45
+"HODs differ for each branch, please be more specific like: (HOD it)",26
+" Bus: 114ST+901, 171, 246, 405, 621, 729, 937A, IGI-4EXP are some of appropriate buses to reach IGDTUW",53
+"IGDTUW is well connected with yellow, red and violet line. Kashmere Gate metro station is the nearest metro station and is less than a kilometer away!",39
 "Inter State Bus Terminal, Kashmere Gate is the nearest bus stop. Various inter and intra state buses can be found. It is 1 km away from the university.",9
-IGDTUW is ranked 161 by NIRF 2021 rankings in the engineerning category.,39
-The nearest railway station to IGDTUW is Old Delhi Railway Station and is 1.1 kms away,49
+IGDTUW is ranked 161 by NIRF 2021 rankings in the engineerning category.,41
+The nearest railway station to IGDTUW is Old Delhi Railway Station and is 1.1 kms away,52
 "<b>Name:</b> <a href= https://www.linkedin.com/company/lean-in-igdtuw/>LeanIn - </a><br><b><em>Technical Society</em></b><br><br>Lean In at Indira Gandhi Delhi University for Women was established in 2014 and it was among the first five chapters of the world. The members organize weekly meetings to talk over the relevance of women empowerment and to discuss the impacts that were created single handed-ly by women leaders. Their latest cohort had 48 Mentors, 600+ Mentees, and 10 Circles. Lean In at IGDTUW council also conducts events like Orientation by Council Members, Curtain Raiser events and Corporate Training Sessions<br><br><b>Connect:</b><br><a href= https://www.instagram.com/leanin.igdtuw/?hl=en>Instagram</a><br><a href= https://www.youtube.com/results?search_query=lean+in+igdtuw>Youtube</a><br><a href= https://www.linkedin.com/company/lean-in-igdtuw/>LinkedIn</a><br><a href= https://twitter.com/leaninigdtuw>Twitter</a><br><a href= https://m.facebook.com/leaninatigdtu/>Facebook</a><br>",2
 "Hostel Security Charges (One Time, Refundable) = Rs 10,000
  Hostel Charges (per Annum) = Rs 32,000 
 Hostel Welfare Charges and Admission fees (per Annum) = Rs 6,600
 Mess Charges (per Semester) = Rs 20,600 
  Extra Charges for Kettle, Cooler and Iron = 1,200 per annum.
- For more information refer <a target=""blank"" href = ""http://igdtuw.ac.in/uploads/Hostel%20Annual%20Fee%20Structure%202021-22%20(1).pdf"">this document </a>",27
-"To enable and nurture relevant research endeavours the University has bagged research grants from various external agencies. The researchers in the University both Faculty and students are involved in industry relevant research and consultancy in various areas of social relevance. More info on which can be found <a target = ""blank"" href = ""http://igdtuw.ac.in/Research.php?id=8"">here</a>. Information about various research areas for PhD students can be found <a target = ""blank"" href = ""http://igdtuw.ac.in/Research.php?id=3""> here</a>.",44
-2013,29
-IGDTUW was established in 2013,29
+ For more information refer <a target=""blank"" href = ""http://igdtuw.ac.in/uploads/Hostel%20Annual%20Fee%20Structure%202021-22%20(1).pdf"">this document </a>",28
+"To enable and nurture relevant research endeavours the University has bagged research grants from various external agencies. The researchers in the University both Faculty and students are involved in industry relevant research and consultancy in various areas of social relevance. More info on which can be found <a target = ""blank"" href = ""http://igdtuw.ac.in/Research.php?id=8"">here</a>. Information about various research areas for PhD students can be found <a target = ""blank"" href = ""http://igdtuw.ac.in/Research.php?id=3""> here</a>.",47
+2013,30
+IGDTUW was established in 2013,30
+"IGDTUW offered over 1200 UG admissions in the year 21-22 with over 800 in B.Tech. For more information about number of seats and seat matrix, click <a href=""https://www.igdtuw.ac.in/Admission.php?id=4"">here</a>.",54
+"Last date for online registration of M.Tech, M.Plan, MCA and Ph.D. has been extended to <b>30 June 2022</b>. For detailed timeline visit <a href=""https://www.igdtuw.ac.in/uploads/Circular%20regarding%20extended%20the%20last%20date%20fo%20PG%20and%20PhD%20admission.pdf"">here</a>.",43
+"Please click <a href=""https://www.igdtuw.ac.in/uploads/MBA%20Broucher1.pdf"">here</a> to download the MBA Admission Brochure. Click <a href=""http://52.2.84.116/cams/"">here</a> to open the MBA admissions portal.",36
+"I am sorry I could not help you. Please drop us an email at <a href=""mailto:noreply@igdtuw.ac.in""> and our technical assistance team will be more than happy to help you out. You may also refer to <a href=""http://www.igdtuw.ac.in/contact.php"">this document</a> for specific assistance.",21

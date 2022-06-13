@@ -10,9 +10,6 @@ var $chatlogs = $('.chatlogs');
 	
 
 $('document').ready(function(){
-<<<<<<< Updated upstream
-    speechResponse("Hi! I am Prashna! How may I help?");
-=======
     speechResponse("");
     $('.iconInner').click(function(e) {
 		jQuery(this).parents('.botIcon').addClass('showBotSubject');
@@ -26,7 +23,6 @@ $('document').ready(function(){
 		jQuery(this).parents('.botIcon').removeClass('showBotSubject');
 		jQuery(this).parents('.botIcon').removeClass('showMessenger');
 	});
->>>>>>> Stashed changes
 	console.log("hello2");
 	// Hide the switch input type button initially
 	$("#switchInputType").toggle();
