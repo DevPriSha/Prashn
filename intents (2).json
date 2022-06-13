@@ -950,7 +950,601 @@
             "context": [
                 ""
             ]
-        }
+        },
+        {
+            "tag":"ug-seats",
+            "patterns":["How many undergraduate students attend this college", "how many seats in UG", "undergraduate vacancies"],
+            "responses":["IGDTUW offered over 1200 UG admissions in the year 21-22 with over 800 in B.Tech. For more information about number of seats and seat matrix, click <a href=\"https://www.igdtuw.ac.in/Admission.php?id=4\">here</a>."],
+
+    },
+    {
+        "tag":"",
+        "patterns":[],
+        "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
+{
+    "tag":"",
+    "patterns":[],
+    "responses":[]
+
+},
     ]
 }
 

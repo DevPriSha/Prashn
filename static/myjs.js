@@ -2,7 +2,6 @@
 var lastSentMessage = "";
 var lastRecievedMessage = 1;
 var ButtonClicked = false;
-console.log("hello");
 
 var DEFAULT_TIME_DELAY = 1000;
 
@@ -11,7 +10,23 @@ var $chatlogs = $('.chatlogs');
 	
 
 $('document').ready(function(){
+<<<<<<< Updated upstream
     speechResponse("Hi! I am Prashna! How may I help?");
+=======
+    speechResponse("");
+    $('.iconInner').click(function(e) {
+		jQuery(this).parents('.botIcon').addClass('showBotSubject');
+		$("[name='msg']").focus();
+        if(lastSentMessage===""){
+        speechResponse("Hi! I am Prashna! How may I help?");
+        }
+	});
+    
+    jQuery(document).on('click', '.closeBtn, .chat_close_icon', function(e) {
+		jQuery(this).parents('.botIcon').removeClass('showBotSubject');
+		jQuery(this).parents('.botIcon').removeClass('showMessenger');
+	});
+>>>>>>> Stashed changes
 	console.log("hello2");
 	// Hide the switch input type button initially
 	$("#switchInputType").toggle();
@@ -177,19 +192,20 @@ $('document').ready(function(){
        
 function speechResponse(message)
 {
+    message_stripped = message.replace(/<\/?[^>]+(>|$)/g, "");
 
 	var msg = new SpeechSynthesisUtterance();
 
 	// These lines list all of the voices which can be used in speechSynthesis
-	//var voices = speechSynthesis.getVoices();
+	var voices = speechSynthesis.getVoices();
 	//console.log(voices);
 	
 	
 	msg.default = false;
-// 	msg.voiceURI = "Fiona";
-	msg.name = "Microsoft Heera - English (India)";
+    msg.voiceURI = "Veena";
+	msg.voice = voices[40];
 	msg.localService = true;
-  	msg.text = message;
+  	msg.text = message_stripped;
   	msg.lang = "en-IN";
 	msg.rate = .9;
 	msg.volume = 100;

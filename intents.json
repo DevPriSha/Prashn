@@ -829,8 +829,8 @@
                             "college buses",
                             "bus routes",
                             "list of buses for travelling",
-                            "does 835 goes to college",
-                            "does 835 goes to rawta mor"
+                            "does 729 goes to college",
+                            "does 729 goes to kashmere gate"
                             
                     ],
                     "responses":[
@@ -853,6 +853,13 @@
                             "Kashmere Gate metro station"
                     ]
             },
+            {
+                    "tag":"",
+                    "patterns":[],
+                    "responses":[]
+
+            },
+            
             {
                 "tag":"fall-back",
                 "patterns":[
